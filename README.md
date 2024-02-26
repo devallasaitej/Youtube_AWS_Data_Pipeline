@@ -13,4 +13,4 @@ This Kaggle dataset contains statistics (CSV files) on daily popular YouTube vid
 
 https://www.kaggle.com/datasets/datasnaek/youtube-new
 ## Data Pipeline Architecture
-<img width="953" alt="Pipeline_Architecture_Diagram" src="https://github.com/devallasaitej/Youtube_Data_Engineering/assets/64268620/97192c34-2e37-4a5e-b631-1a40444f089e">
+<img width="764" alt="Pipeline_architecture" src="https://github.com/devallasaitej/Youtube_Data_Engineering/assets/64268620/c7baff4c-9782-447c-864f-10ab3e4d5805">
