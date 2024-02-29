@@ -1,6 +1,6 @@
 # AWS Data Pipeline for YouTube Trending videos Dataset
 ## Overview
-This project objectve is to build a data pipeline using AWS services to cleanse YouTube trending videos dataset from Kaggle by converting semi-structured data to structured format and perform analysis based on the video categories and the trending metrics.
+This project objective is to build a data pipeline using AWS services to cleanse YouTube trending videos dataset from Kaggle by converting semi-structured data to structured format and perform analysis based on the video categories and the trending metrics.
 ## AWS Services Used
 1. Amazon S3: Amazon S3 is an object storage service that provides manufacturing scalability, data availability, security, and performance.  
 2. AWS IAM: Identity and access management which enables us to manage access to AWS services and resources securely.  
