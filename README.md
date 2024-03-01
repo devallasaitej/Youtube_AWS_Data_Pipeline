@@ -16,4 +16,4 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 <img width="764" alt="Pipeline_architecture" src="https://github.com/devallasaitej/Youtube_Data_Engineering/assets/64268620/c7baff4c-9782-447c-864f-10ab3e4d5805">
 
 ## Data Cleansing
-<img width="764" alt="Data_Cleansing" src="https://github.com/devallasaitej/Youtube_Data_Engineering/assets/64268620/b94cc07d-f0cc-467c-b165-9d56c6f97049">
+<img width="764" alt="Data_Cleansing" src="https://github.com/devallasaitej/Youtube_Data_Engineering/assets/64268620/f6f9d974-c724-4fd3-a22a-73c706347ffa">
